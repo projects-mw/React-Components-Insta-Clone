@@ -44,3 +44,11 @@ Your project should end up looking like [this](https://tk-assets.lambdaschool.co
 ## Submission Format
 
 - [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[chris atoki](https://youtu.be/sWWxgw_EWd0)
+[emily seibert](https://youtu.be/JcXA4DQ7FnM)
+[dan frehner](https://youtu.be/uHH5wVq4iZo)
+[jason maurer](https://youtu.be/AbAiXH5pqlw)
+[dan levy](https://youtu.be/mzgCU69oU4w)
